@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Fashion_MNIST_Project"
+  site-url: "https://nvtai040502.github.io/Fashion_MNIST_Project"
+  description: "Build model deep learning from scratch"
+  repo-branch: main
+  repo-url: "https://github.com/nvtai040502/Fashion_MNIST_Project"
