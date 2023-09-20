@@ -6,15 +6,23 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
 website:
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
   navbar:
+    
     background: primary
     search: true
+    tools:
+      - icon: github
+        href: https://github.com/nvtai040502
   sidebar:
-    style: floating
+    # style: floating
+    
+    
+    style: "docked"
+    search: true
+    
 
 metadata-files: [nbdev.yml, sidebar.yml]

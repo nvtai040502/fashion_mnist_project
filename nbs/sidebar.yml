@@ -2,5 +2,8 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
-      - 01_F.ipynb
+      - 00_process.ipynb
+      - 01_linearlayer.ipynb
+      - 02_neuralnet.ipynb
+      - 03_regularization.ipynb
+      - 10_core.ipynb
