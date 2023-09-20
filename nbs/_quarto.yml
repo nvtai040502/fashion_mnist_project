@@ -7,11 +7,12 @@ format:
     css: styles.css
     toc: true
 website:
+  
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
   navbar:
-    
+    title: "Fashion MNIST"
     background: primary
     search: true
     tools:
