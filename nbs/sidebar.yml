@@ -6,3 +6,4 @@ website:
       - 01_linearlayer.ipynb
       - 02_neuralnet.ipynb
       - 03_regularization.ipynb
+      - 04_cnn.ipynb
