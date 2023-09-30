@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/regularization.html</loc>
+    <lastmod>2023-09-30T08:52:33.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/cnn.html</loc>
+    <lastmod>2023-09-30T08:52:31.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/process.html</loc>
+    <lastmod>2023-09-30T08:52:30.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/neuralnet.html</loc>
+    <lastmod>2023-09-30T08:52:28.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/index.html</loc>
+    <lastmod>2023-09-30T08:52:29.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/linearlayer.html</loc>
+    <lastmod>2023-09-30T08:52:31.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nvtai040502.github.io/Fashion_MNIST_Project/finetuning.html</loc>
+    <lastmod>2023-09-30T08:52:32.128Z</lastmod>
+  </url>
+</urlset>
